@@ -1,0 +1,16 @@
+NFTMarketplaceHub/
+├── .env
+├── app.js
+├── package.json
+├── models/
+│   └── nft.js
+├── public/
+│   ├── css/
+│   │   └── styles.css
+├── views/
+│   ├── index.ejs
+│   ├── nft.ejs
+│   ├── create.ejs
+│   └── details.ejs
+└── routes/
+    └── index.js
